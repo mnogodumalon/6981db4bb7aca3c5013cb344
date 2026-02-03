@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "id": "d0f9cb2d-48ee-42c3-9431-e9b198635d16",
+      "name": "2026-02-03 11:32 - Initial build: Notizzettel",
+      "created_at": "2026-02-03T11:32:04.176166Z",
+      "last_used": "2026-02-03T11:32:04.176166Z"
+    }
+  ],
+  "active_session": "d0f9cb2d-48ee-42c3-9431-e9b198635d16"
+}
